@@ -1,6 +1,6 @@
 version: "3"
 
-secrets:
+services:
   styling:
     image: henriquemazzoleni/styling
     build: .
